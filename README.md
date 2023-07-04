@@ -5,7 +5,7 @@
 ```
     python3 CSA_OptMatcher.py -c data/linear_b-greek.cog -f data/FixNULL -n 2 -m 1 -d cuda 1> LOG 2> LOG_E
 ```
-    monitoring the training by looking at the *stderr* log 'LOG_E'. 
+monitoring the training by looking at the *stderr* log 'LOG_E'. 
 
 - The program prints on *stdout* all the tested solutions by the CSA process, thus, sorting them using the file 'LOG' we can get the lowest-energy solution and test it by the command
 ```
