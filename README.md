@@ -1,5 +1,7 @@
 # CSA_OptMatcher
 
+This code is devoted to help paleographers and linguists in the decipherment of lost script/languages. Please, refer to the cited paper for a complete explanation of the general goals, configurations and parameters.
+
 ## For repeating the experiments on the paper:
 - First you can train the system with, for example
 ```
