@@ -2,6 +2,8 @@
 
 This code is devoted to help paleographers and linguists in the decipherment of lost script/languages. Please, refer to the cited paper for a complete explanation of the general goals, configurations, parameters and datasets.
 
+This package requires the installation of another package I developed, namely [EditDistanceWild](https://github.com/ftamburin/EditDistanceWild).
+
 ## For repeating the experiments on the paper:
 - First you can train the system with, for example
 ```
