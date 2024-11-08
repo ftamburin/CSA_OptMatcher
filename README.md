@@ -9,7 +9,7 @@ This package requires the installation of another package I developed, namely [E
 ```
     python3 CSA_OptMatcher.py -c data/linear_b-greek.cog -f data/FixNULL -n 2 -m 1 -d cuda 1> LOG 2> LOG_E
 ```
-monitoring the training by looking at the *stderr* log 'LOG_E'. 
+monitoring the training by looking at the *stderr* log 'LOG_E'. Please note that, on some systems, to gurantee a real multiprocess run you have to set "OPENBLAS_MAIN_FREE=1" in your shell environment.
 
 - The program prints on *stdout* all the tested solutions by the CSA process, thus, sorting them using the file 'LOG' we can get the lowest-energy solution and test it by the command
 ```
