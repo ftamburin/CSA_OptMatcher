@@ -20,17 +20,4 @@ Tested on:
 - python 3.7
 - pytorch 1.10.2
 
-If you find this code useful in your research, please cite:
-```
-@InProceedings{Tamburini:2023:ACL-CAWL,
-  author    = {Tamburini, Fabio},
-  title     = {Decipherment of Lost Ancient Scripts as Combinatorial Optimisation using Coupled Simulated Annealing},
-  booktitle = {Proceedings of the 1st ACL Workshop on Computation and Written Language (CAWL)},
-  month     = {July},
-  year      = {2023},
-  address   = {Toronto, Canada},
-  publisher = {Association for Computational Linguistics}
-}
-```
-
 In case of problems contact me at <fabio.tamburini@unibo.it>.
