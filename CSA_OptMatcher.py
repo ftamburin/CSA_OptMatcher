@@ -18,7 +18,13 @@ alphabets = {
 				'heb':['m', 's', 'g', 'r', 'w', 'a', 'y', 'n', 'b', 'H', 'l', 'k', '$', 'q', 't', 'S', 'd', 'h', 'p', '<', 'z', '&', 'T'],
 				'linb':['𐀀', '𐀁', '𐀂', '𐀃', '𐀄', '𐀅', '𐀆', '𐀇', '𐀈', '𐀉', '𐀊', '𐀋', '𐀍', '𐀏', '𐀐', '𐀑', '𐀒', '𐀓', '𐀔', '𐀕', '𐀖', '𐀗', '𐀘', '𐀙', '𐀚', '𐀛', '𐀜', '𐀝', '𐀞', '𐀟', '𐀠', '𐀡', '𐀢', '𐀣', '𐀤', '𐀥', '𐀦', '𐀨', '𐀩', '𐀪', '𐀫', '𐀬', '𐀭', '𐀮', '𐀯', '𐀰', '𐀱', '𐀲', '𐀳', '𐀴', '𐀵', '𐀶', '𐀷', '𐀸', '𐀹', '𐀺', '𐀼', '𐀽', '𐀿', '𐁀', '𐁁', '𐁂', '𐁄', '𐁅', '𐁆', '𐁇', '𐁈', '𐁉', '𐁊', '𐁋'],
 				'greek':['α', 'ε', 'ι', 'ο', 'υ', 'δα', 'δε', 'δι', 'δο', 'δυ', 'ια', 'ιε', 'ιο', 'κα', 'κε', 'κι', 'κο', 'κυ', 'χα', 'χε', 'χι', 'χο', 'χυ', 'γα', 'γε', 'γι', 'γο', 'γυ', 'μα', 'με', 'μι', 'μο', 'μυ', 'να', 'νε', 'νι', 'νο', 'νυ', 'πα', 'πε', 'πι', 'πο', 'πυ', 'βα', 'βε', 'βι', 'βο', 'βυ', 'φα', 'φε', 'φι', 'φο', 'φυ', 'ρα', 'ρε', 'ρι', 'ρο', 'ρυ', 'λα', 'λε', 'λι', 'λο', 'λυ', 'σα', 'σε', 'σι', 'σο', 'συ', 'τα', 'τε', 'τι', 'το', 'τυ', 'θα', 'θε', 'θι', 'θο', 'θυ', 'fα', 'fε', 'fι', 'fο', 'ζα', 'ζε', 'ζο', 'hα', 'αι', 'αυ', 'δfε', 'δfο', 'νfα', 'πτε', 'ρια', 'ραι', 'ριο', 'τια', 'τfε', 'τfο'],
-				'csyl':['𐠀', '𐠁', '𐠂', '𐠃', '𐠄', '𐠲', '𐠳', '𐠴', '𐠵', '𐠼', '𐠿', '𐠅', '𐠈', '𐠊', '𐠋', '𐠌', '𐠍', '𐠎', '𐠏', '𐠐', '𐠑', '𐠒', '𐠓', '𐠔', '𐠕', '𐠖', '𐠗', '𐠘', '𐠙', '𐠚', '𐠛', '𐠜', '𐠝', '𐠷', '𐠸', '𐠞', '𐠟', '𐠠', '𐠡', '𐠢', '𐠣', '𐠤', '𐠥', '𐠦', '𐠧', '𐠨', '𐠩', '𐠪', '𐠫', '𐠬', '𐠭', '𐠮', '𐠯', '𐠰', '𐠱']
+				'csyl':['𐠀', '𐠁', '𐠂', '𐠃', '𐠄', '𐠲', '𐠳', '𐠴', '𐠵', '𐠼', '𐠿', '𐠅', '𐠈', '𐠊', '𐠋', '𐠌', '𐠍', '𐠎', '𐠏', '𐠐', '𐠑', '𐠒', '𐠓', '𐠔', '𐠕', '𐠖', '𐠗', '𐠘', '𐠙', '𐠚', '𐠛', '𐠜', '𐠝', '𐠷', '𐠸', '𐠞', '𐠟', '𐠠', '𐠡', '𐠢', '𐠣', '𐠤', '𐠥', '𐠦', '𐠧', '𐠨', '𐠩', '𐠪', '𐠫', '𐠬', '𐠭', '𐠮', '𐠯', '𐠰', '𐠱'],
+				# StarlingDB
+				'Ug' :['_','-','ɣ','ʔ','ʕ','a','ā','b','d','g','h','ḫ','ḥ','i','ī','k','ḳ','l','m','n','p','q','r','s','š','ṣ','t','ṭ','u','w','y','z','ẓ'],
+				'Ph' :['-','ʔ','ʕ','a','b','d','e','g','h','ḥ','ḫ','i','ī','k','ḳ','l','m','n','o','p','r','s','š','ṣ','t','ṭ','u','w','y','z'],
+				# RWT2002
+				'luv':['-','a','ā','d','g','h','i','ī','k','l','m','n','p','r','s','t','u','ū','w','y','z'],
+				'hit':['-','a','ā','d','e','ē','g','h','i','ī','k','l','m','n','p','r','s','t','u','ū','w','y','z']
 			}
 
 
@@ -42,9 +48,16 @@ def ReadLexicon(fname, stream, sep):
 			else:
 				l = l.rstrip().split()[stream]
 				if ((sep == '-') and (l != '_')):
-					l = l.split('-')[1:-1]
-					l = ''.join(l)
-				if (l != '_'):
+					l = l.split('|')
+					ng = 0
+					for ll in l:
+						l1 = ll.split('-')#[1:-1]
+						if (len(l1) > maxl):
+							maxl = len(ll)
+						Lex.append(l1)
+						ng += 1
+					groups.append(ng)
+				if ((sep == '') and (l != '_')):
 					l = l.split('|')
 					ng = 0
 					for ll in l:
@@ -59,9 +72,11 @@ def ReadLexicon(fname, stream, sep):
 
 
 class Problem():
-	def __init__(self, fName, fNameFix, sep, N, M, device): 
-		self.lC, self.lLex, self.maxLl, _ = ReadLexicon(fName, 0, sep)
+	def __init__(self, fName, fNameFix, sep, N, M, penF, device): 
+		self.lC, self.lLex, self.maxLl, self.lGroups = ReadLexicon(fName, 0, sep)
 		self.kC, self.kLex, self.maxLk, self.kGroups = ReadLexicon(fName, 1, sep)
+		assert sum(self.lGroups) == len(self.lLex)
+		assert sum(self.kGroups)  == len(self.kLex)
 
 		self.fix = {}
 		with open(fNameFix, "r", encoding='utf-8') as f:
@@ -83,8 +98,8 @@ class Problem():
 		self.llC = len(self.lC)
 		self.lkC = len(self.kC)
 
-		if (N*self.llC <= self.lkC):
-			print('ERROR, wrong parameters:',N*self.llC,'MUST BE >',self.lkC, file=sys.stderr)
+		if (N*self.llC < self.lkC):
+			print('ERROR, wrong parameters:',N*self.llC,'MUST BE >=',self.lkC, file=sys.stderr)
 			sys.exit(1)
 		assert (M == 1) or (M == 2)
 		assert (N == 1) or (N == 2) or (N == 3)
@@ -94,6 +109,8 @@ class Problem():
 		self.ED = (1,1)	# WEIGHTs FOR THE EDIT DISTANCE
 		print('N =',N,'   M =',M, file=sys.stderr)
 		print('ED =',self.ED, file=sys.stderr)
+		self.penF = penF
+		print('PenF =',self.penF, file=sys.stderr)
 		self.device = device
 		print('WORKING on',self.device, file=sys.stderr)
 
@@ -144,41 +161,45 @@ class Problem():
 						for j in range(len(P[ci])):
 							yield from expandWord(w, i+1, l+[ord(x) for x in self.kC[P[ci][j]]])
 					else:
-						yield from expandWord(w, i+1, l+[ord(x) for x in w[i]])
+						#yield from expandWord(w, i+1, l+[ord(x) for x in w[i]])
+						yield from expandWord(w, i+1, l)	# DEL CHAR ASSOCIATED TO -1
 
 		P = self.State2Assignment(state)
 		self.costM = []
-		self.lGroups = []
+		self.lGroupsW = []
 		self.dynLex = []
-		for j in range(len(self.lLex)):
+		j = 0
+		for lG in range(len(self.lGroups)):
 			nel = 0
-			for ww in expandWord(self.lLex[j], 0, []):
-				self.dynLex += [self.lLex[j]]
-				L = [(ww+[0]*self.maxLl)[:self.maxLl]]
-				x = torch.tensor(L, dtype=torch.long, requires_grad = False).to(self.device)
-				pred = editdistance1N(x, self.y, 0, self.ED[0], self.ED[1]).to('cpu')
-				self.costM.append(pred[:,1].numpy())
-				del pred
-				nel += 1
-			self.lGroups.append(nel)
+			#print(self.lLex[j])
+			for i in range(self.lGroups[lG]):
+				for ww in expandWord(self.lLex[j], 0, []):
+					self.dynLex += [self.lLex[j]]
+					L = [(ww+[0]*self.maxLl)[:self.maxLl]]
+					x = torch.tensor(L, dtype=torch.long, requires_grad = False).to(self.device)
+					pred = editdistance1N(x, self.y, 0, self.ED[0], self.ED[1]).to('cpu')
+					self.costM.append(pred[:,1].numpy())
+					del pred
+					nel += 1
+				j += 1
+			self.lGroupsW.append(nel)
 		self.costM = np.array(self.costM)
-		assert len(self.lLex) == len(self.lGroups)
-		self.lGroups = np.array(self.lGroups)
-		self.row_ind, self.col_ind, out = lsa_2g(self.costM, self.lGroups, self.kGroups)
+		assert len(self.lGroups) == len(self.lGroupsW)
+		self.lGroupsW = np.array(self.lGroupsW)
+		self.row_ind, self.col_ind, out = lsa_2g(self.costM, self.lGroupsW, self.kGroups)
 
 		# PENALISATIONS...
 		lPN = 0
 		lPM = 0
-		penF = 4.0
 		if (self.M > 1):
 			# ...FOR MULTIPLE ASSIGNMENTS
 			lPM = sum([1 if ((lP!=-1) and (len(lP)>1)) else 0 for lP in P])
-			out = out + penF*lPM
+			out = out + self.penF*lPM
 		# ...FOR LOST SIGNS UNASSIGNED
 		lPN = sum([1 if (lP==-1) else 0 for lP in P])
-		out = out + penF*lPN
+		out = out + self.penF*lPN
 		if (freeMem):
-			del self.costM, self.lGroups
+			del self.costM, self.lGroupsW
 		print(out, state, P, lPN, lPM, self.ED, 'EnEval')
 		sys.stdout.flush()
 		return out
@@ -208,26 +229,31 @@ def EvalModel(UsolMatch, goldMatches):
 	# COMPUTE Luo et al. 2019 measure
 	print('COMPUTING LUO et al. 2019 Measure')
 	found = 0
-	for wL,wsK in goldMatches:
+	for wsL,wsK in goldMatches:
+		wsL = wsL.split('|')
 		wsK = wsK.split('|')
 		match = False
-		for wK in wsK:
-			if ((wL,wK) in UsolMatch):
-				match = True
-				wmatch = wK
+		for wL in wsL:
+			for wK in wsK:
+				if ((wL,wK) in UsolMatch):
+					match = True
+					wmatchL = wL
+					wmatchK = wK
 		if (match):
 			found += 1
-			print((wL,wmatch),wsK,'\tOK!')
+			print((wmatchL,wmatchK),(wsL,wsK),'\tOK!')
 		else:
 			for a,b in UsolMatch:
-				if (a == wL):
-					print((wL,b),wsK,'\t.')
+				if (a in wsL):
+					print((wsL,b),wsK,'\t.')
 	luo = found / len(goldMatches)
 	print('Accuracy:',luo,str(found)+'/'+str(len(goldMatches)))
 
 
 
 if __name__ == '__main__':
+	print(len(sys.argv),sys.argv, file=sys.stderr)
+
 	argument_parser = ArgumentParser()
 	argument_parser.add_argument('-c', "--cog-file", required=True, help="File containing cognates.")
 	argument_parser.add_argument("-f", "--fix-file", required=True, help="File containing the fixed signs.")
@@ -235,17 +261,18 @@ if __name__ == '__main__':
 	argument_parser.add_argument("-n", "--n", required=True, type=int, help="N value for solution design.")
 	argument_parser.add_argument("-m", "--m", required=True, type=int, help="M value for solution design.")
 	argument_parser.add_argument("-d", "--device", default="cpu", help="Select cpu or cuda device.")
+	argument_parser.add_argument("-p", "--penf", default=4.0, type=float, help="Penalisation factor.")
 	argument_parser.add_argument("-o", "--sol", default="", help="Evaluate considering this solution.")
 	args = argument_parser.parse_args()
 
 
-	prob = Problem(args.cog_file, args.fix_file, args.sep, args.n, args.m, args.device)
+	prob = Problem(args.cog_file, args.fix_file, args.sep, args.n, args.m, args.penf, args.device)
 
 	if (args.sol == ""):
 		# TRAINING
 		# Initialize the CSA process.
 		n_annealers = 16
-		processes = 8
+		processes = 8 #16
 		steps = 100000
 		stepsatsameT = max(math.ceil(len(prob.init_state) / n_annealers), 5)
 		annealer = CoupledAnnealer(
@@ -298,7 +325,7 @@ if __name__ == '__main__':
 		prob.energy(state, freeMem=False)
 
 		# MATCHING LEXICA
-		row_ind, col_ind, out = lsa_2g(prob.costM, prob.lGroups, prob.kGroups)
+		row_ind, col_ind, out = lsa_2g(prob.costM, prob.lGroupsW, prob.kGroups)
 		UsolMatch = []
 		for l in range(len(row_ind)):
 			UsolMatch.append((''.join(prob.dynLex[row_ind[l]]),''.join(prob.kLex[col_ind[l]])))
